@@ -2,7 +2,7 @@
 
 - 📚 💻  Estudo Analise e Desenvolvimento de sistemas
 - 📚 💻  Estudo tambem Programação Fullstack
-- 🕵🏻‍♀️      Tenho 36 anos e busco a primeira experiência na Área de T.I. (Sim! estou em transição de carreira)
+- 🕵🏻‍♀️      Tenho 38 anos e busco a primeira experiência na Área de T.I. (Sim! estou em transição de carreira)
 - ☀️🌊   Sou de Fortaleza/CE - Brasil
 
 <div>
