@@ -1,14 +1,12 @@
-- ## Olá! Eu sou Jairo Torres...
+- ## Hi! Devs. ☕
 
-- 📚 💻  Finalizando Analise e Desenvolvimento de sistemas (Dez/2024)
-- 📚 💻  Estudo tambem Programação Fullstack
-- 🕵🏻‍♀️     Estagiário de Desenvolvimento de Software! Transição de carreira iniciada.
-- ☀️🌊   Sou de Fortaleza/CE - Brasil
-
+Ending ADS (Dez/2024)
+Fullstack (+back -front)
+Estagiário de Desenvolvimento de Software! Transição de carreira iniciada.
 <div>
+  
 <a href="https://github.com/ojairotorres">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojairotorres&show_icons=true&theme=dark&include_all_commits=true"/>
-
 </div>
 
 <div style="display: inline_block"><br>
