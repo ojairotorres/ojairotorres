@@ -1,8 +1,8 @@
 - ## Olá! Eu sou Jairo Torres...
 
-- 📚 💻  Estudo Analise e Desenvolvimento de sistemas
+- 📚 💻  Finalizando Analise e Desenvolvimento de sistemas (Dez/2024)
 - 📚 💻  Estudo tambem Programação Fullstack
-- 🕵🏻‍♀️     Estagiário de Desenvolvimento de Software! (Sim! estou em transição de carreira)
+- 🕵🏻‍♀️     Estagiário de Desenvolvimento de Software! Transição de carreira iniciada.
 - ☀️🌊   Sou de Fortaleza/CE - Brasil
 
 <div>
@@ -12,6 +12,8 @@
 </div>
 
 <div style="display: inline_block"><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />     
 <img align="center" alt="Phyton" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="center" alt="Phyton" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
 <img align="center" alt="Phyton" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
