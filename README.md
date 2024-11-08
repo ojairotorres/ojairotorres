@@ -1,7 +1,7 @@
 - ## Hi! Devs. ☕
 
-Ending ADS (Dez/2024)
-Fullstack (+back -front)
+Ending ADS (Dez/2024) | 
+Fullstack (+back -front) | 
 Estagiário de Desenvolvimento de Software! Transição de carreira iniciada.
 <div>
   
