@@ -1,7 +1,8 @@
 - ## Hi! Devs. ☕
 
-Analista e Desenvolvedor de /software | 
+Analista e Desenvolvedor de Sistemas | 
 Fullstack (+back -front) | 
+Desenvolvimento Web / I.A.
 Estagiário de Desenvolvimento de Software!
 <div>
   
