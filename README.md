@@ -1,8 +1,8 @@
 - ## Hi! Devs. ☕
 
-Ending ADS (Dez/2024) | 
+Analista e Desenvolvedor de /software | 
 Fullstack (+back -front) | 
-Estagiário de Desenvolvimento de Software! Transição de carreira iniciada.
+Estagiário de Desenvolvimento de Software!
 <div>
   
 <a href="https://github.com/ojairotorres">
